@@ -1,1 +1,1 @@
-This is student B version.
+This is Student B version.
