@@ -1,3 +1,5 @@
 Name: Clayton
 Course: BAI
 Favourite Food: Sushi
+Hobby: Gaming
+Dream job: Gamer
