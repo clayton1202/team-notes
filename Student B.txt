@@ -1,3 +1,5 @@
 Name: Bernard
 Course: BAI
 Favourite food: Ramen
+Hobby: teaching
+Dream Job: teacher
